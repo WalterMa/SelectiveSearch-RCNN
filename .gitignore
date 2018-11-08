@@ -1,0 +1,8 @@
+# Matlab .mex output
+*.mexw32
+*.mexw64
+*.mexa32
+*.mexa64
+
+# Output mat file
+*.mat
